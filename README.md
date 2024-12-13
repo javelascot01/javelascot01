@@ -1,7 +1,12 @@
 # Desarrollo de Aplicaciones Multiplataforma 
 
 ---
-Repositorio de Jesús Velasco, estudiante de **Desarrollo de Aplicaciones Multiplataforma** (DAM).
+
+
+
+Perfil de Jesús Velasco, estudiante de **Desarrollo de Aplicaciones Multiplataforma** (DAM).
+
+
 
 ---
 
