@@ -1,4 +1,8 @@
-## Hi there 👋
+# Desarrollo de Aplicaciones Multiplataforma 
+
+Reposutorio de Jesús Velasco, estudiante de **Desarrollo de Aplicaciones Multiplataforma** (DAM).
+
+---
 
 <!--
 **javelascot01/javelascot01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
