@@ -8,7 +8,7 @@ I am a Spanish programmer and student passionate about technology and software d
 
 ---
 
-## Technologies and Tools
+## :hammer_and_wrench: Technologies and Tools
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,6 +34,9 @@ I am a Spanish programmer and student passionate about technology and software d
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=javelascot01&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javelascot01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
 
 - 📧 [javelascot01@example.com](mailto:javelascot01@example.com)
