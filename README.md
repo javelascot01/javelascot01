@@ -37,7 +37,5 @@ I am a Spanish programmer and student passionate about technology and software d
 ## Contact
 
 - 📧 [javelascot01@example.com](mailto:javelascot01@example.com)
-- [LinkedIn](https://www.linkedin.com/in/javelascot01)
-- [Twitter](https://twitter.com/javelascot01)
 
 ---
